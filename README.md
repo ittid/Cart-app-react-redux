@@ -4,7 +4,7 @@
 
 
 ## Installation:
-* Clone repo
+* Clone repo 
 #### `json server`
 * Go to `data-json` folder
 * run the server using npm `json-server --watch db.json --port 9000`
